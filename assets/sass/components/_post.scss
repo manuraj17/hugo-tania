@@ -86,6 +86,7 @@ header {
 
     code {
         overflow-x: auto;
+        font-family: $font-code;
     }
 
     @for $i from 1 through 6 {
